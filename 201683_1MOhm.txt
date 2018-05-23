@@ -1,0 +1,1 @@
+Description: 10k Ohm resistor, 4-wire, from -1e-3 to 1e-3 ampCurrent

@@ -1,0 +1,5 @@
+File/Directory	"u'C:\\\\Users\\\\Administrator\\\\OD\\\\Dropbox\\\\Doktor Mcgill\\\\Data\\\\20180306 - 150nm thick Pentacene Film'"
+File/Filename	"u'Approached_Laser_on'"
+File/Description	"u'4-Wire, -1E-9 to 1E-9 A, 1e-11 spacing'"
+
+

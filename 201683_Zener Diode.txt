@@ -1,0 +1,1 @@
+Description: Zener Diode, 3.6V breakdown, 4-wire, from -1e-3 to 1e-3 ampCurrent

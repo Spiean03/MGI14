@@ -1,0 +1,26 @@
+Sweep/Source	"'Current'"
+Sweep/Type	"'4-Wire'"
+Sweep/StartValue	'-1e-10'
+Sweep/StopValue	'1e-10'
+Sweep/StepSize	'1e-12'
+Sweep/Averaging	'1'
+Sweep/Terminals	"'Front'"
+Sweep/VoltProt_Level	'4.5'
+Sweep/CurrProt_Level	'0.01'
+Mapping/Size_X	'1000.0'
+Mapping/Size_Y	'1000.0'
+Mapping/Points_X	'3'
+Mapping/Points_Y	'3'
+Mapping/Source	"'Voltage'"
+Mapping/Type	"'4-Wire'"
+Mapping/StartValue	'3.0'
+Mapping/Averaging	'3'
+Mapping/Terminals	"'Front'"
+Mapping/VoltProt_Level	'5'
+Mapping/CurrProt_Level	'5e-07'
+Manipulator/Approach_Speed	'4'
+Manipulator/Approach_Steps	'1'
+Manipulator/Lift_Steps	'1'
+Manipulator/V_Sense	'1'
+
+
