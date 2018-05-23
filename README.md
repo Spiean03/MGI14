@@ -1,2 +1,2 @@
 # MGI14
-Only for personal use -- backup
+This is of no use for anyone except me. -- backup
