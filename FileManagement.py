@@ -2,7 +2,12 @@
 """
 Created on Mon May 30 11:13:01 2016
 
-@author: Administrator
+@author:    Andreas Spielhofer
+            Ph.D. Candidate
+            Physics Departement
+            McGill University
+            Montreal, Canada
+@contact:   andreas.spielhofer@mail.mcgill.ca
 """
 
 import os.path
