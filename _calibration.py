@@ -1,9 +1,14 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu May 26 09:26:40 2016
+@author:    Andreas Spielhofer
+            Ph.D. Candidate
+            Physics Departement
+            McGill University
+            Montreal, Canada
+@contact:   andreas.spielhofer@mail.mcgill.ca
+"""
 
-@author: James Diamond
-""" 
 import numpy as _np
 class CalibrationDummy():
     """
