@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Apr 09 16:03:27 2016
-
-@author: Andreas Spielhofer
+@author:    Andreas Spielhofer
+            Ph.D. Candidate
+            Physics Departement
+            McGill University
+            Montreal, Canada
+@contact:   andreas.spielhofer@mail.mcgill.ca
 """
 import serial
 import time
