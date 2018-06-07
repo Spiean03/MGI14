@@ -1,3 +1,13 @@
+"""
+Created on Tue Mar 08 14:45:27 2015
+@author:    Andreas Spielhofer
+            Ph.D. Candidate
+            Physics Departement
+            McGill University
+            Montreal, Canada
+@contact:   andreas.spielhofer@mail.mcgill.ca
+"""
+
 import cv2 as _cv2
 import spinmob.egg   as egg
 import time as _t
